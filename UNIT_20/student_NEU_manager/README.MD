@@ -1,4 +1,6 @@
-# New Eridu University Student Manager v1.0
+# NEU Student Manager v1.0
+# NOT WORKING
+# DEAD CODE
 
 Index
 - sasa

@@ -1,0 +1,92 @@
+[
+  {
+    "car_id": 1,
+    "car_year": 2020,
+    "car_name": "Toyota",
+    "car_model": "Corolla",
+    "car_color": "Red",
+    "car_type": "Sedan",
+    "car_price": 20000
+  },
+  {
+    "car_id": 2,
+    "car_year": 2018,
+    "car_name": "Honda",
+    "car_model": "Civic",
+    "car_color": "Blue",
+    "car_type": "Sedan",
+    "car_price": 18000
+  },
+  {
+    "car_id": 3,
+    "car_year": 2022,
+    "car_name": "Ford",
+    "car_model": "F-150",
+    "car_color": "Black",
+    "car_type": "Truck",
+    "car_price": 35000
+  },
+  {
+    "car_id": 4,
+    "car_year": 2019,
+    "car_name": "Chevrolet",
+    "car_model": "Malibu",
+    "car_color": "White",
+    "car_type": "Sedan",
+    "car_price": 17000
+  },
+  {
+    "car_id": 5,
+    "car_year": 2021,
+    "car_name": "Nissan",
+    "car_model": "Altima",
+    "car_color": "Silver",
+    "car_type": "Sedan",
+    "car_price": 21000
+  },
+  {
+    "car_id": 6,
+    "car_year": 2023,
+    "car_name": "Tesla",
+    "car_model": "Model 3",
+    "car_color": "Gray",
+    "car_type": "Electric",
+    "car_price": 40000
+  },
+  {
+    "car_id": 7,
+    "car_year": 2017,
+    "car_name": "BMW",
+    "car_model": "X3",
+    "car_color": "Blue",
+    "car_type": "SUV",
+    "car_price": 25000
+  },
+  {
+    "car_id": 8,
+    "car_year": 2020,
+    "car_name": "Audi",
+    "car_model": "A4",
+    "car_color": "Black",
+    "car_type": "Sedan",
+    "car_price": 30000
+  },
+  {
+    "car_id": 9,
+    "car_year": 2016,
+    "car_name": "Hyundai",
+    "car_model": "Elantra",
+    "car_color": "Red",
+    "car_type": "Compact",
+    "car_price": 14000
+  },
+  {
+    "car_id": 10,
+    "car_year": 2022,
+    "car_name": "Kia",
+    "car_model": "Sorento",
+    "car_color": "White",
+    "car_type": "SUV",
+    "car_price": 28000
+  }
+]
